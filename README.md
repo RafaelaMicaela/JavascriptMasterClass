@@ -1,64 +1,65 @@
 
 # JavascriptMasterClass
+> Checklist do curso de javascipt god 😎
 
-- Abertura :x: 
-- História da Linguagem :x:
-- Evolução das versões :x:
-- Variáveis :x:
-- Tipos de dados :x: 
-- Number :x:
-- Operadores Numéricos :x:
-- Conversão Numérica :x:
-- IEEE 754 :x:
-- Math API :x:
-- String :x:
-- Template Literal :x: 
-- String API :x:
-- Boolean :x:
-- Operadores Booleanos :x:
-- Symbol :x:
-- Regexp :x:
-- Exercício 1 :x:
-- Object :x:
-- Undefined e Null :x:
-- Comparação de Objetos :x: 
-- Herança :x:
-- Object API :x:
-- JSON :x:
-- Exercício 2 :x:
-- Function :x:
-- This :x:
-- Getter e Setter :x:
-- Call, Apply e Bind :x:
-- New :x:
-- InstanceOf :x:
-- Exercício 3 :x:
-- Arrow Function :x:
-- Execution Context :x:
-- Closures :x:
-- Tratamente de Exceções :x:
-- Exercício 4 :x:
-- Destructuring :x:
-- Array :x:
-- Array Mutator API :x:
-- Array lteration API :x:
-- Array Acessor API :x:
-- Exercício 5 :x:
-- Exercício 6 :x:
-- Exercício 7 :x:
-- Map :x:
-- WeakMap :x:
-- Set :x: 
-- WekSet :x:
-- lterables e lterators :x: 
-- Exercício 8 :x:
-- Classes :x:
-- Exercício 9 :x:
-- Proxy e Reflect :x:
-- Modules :x:
-- Exercício 10 :x:
-- Promises :x:
-- Exercício 11 :x:
-- Generators :x:
-- Async Await :x:
-- Exercício 12 :x:
+- [x] Abertura 
+- [x] História da Linguagem 
+- [x] Evolução das versões 
+- [ ] Variáveis 
+- [ ] Tipos de dados  
+- [ ] Number 
+- [ ] Operadores Numéricos 
+- [ ] Conversão Numérica 
+- [ ] IEEE 754 
+- [ ] Math API 
+- [ ] String 
+- [ ] Template Literal  
+- [ ] String API 
+- [ ] Boolean 
+- [ ] Operadores Booleanos 
+- [ ] Symbol 
+- [ ] Regexp 
+- [ ] Exercício 1 
+- [ ] Object 
+- [ ] Undefined e Null 
+- [ ] Comparação de Objetos 
+- [ ] Herança 
+- [ ] Object API 
+- [ ] JSON 
+- [ ] Exercício 2 
+- [ ] Function 
+- [ ] This 
+- [ ] Getter e Setter 
+- [ ] Call, Apply e Bind 
+- [ ] New 
+- [ ] InstanceOf 
+- [ ] Exercício 3 
+- [ ] Arrow Function 
+- [ ] Execution Context 
+- [ ] Closures 
+- [ ] Tratamente de Exceções 
+- [ ] Exercício 4 
+- [ ] Destructuring 
+- [ ] Array 
+- [ ] Array Mutator API 
+- [ ] Array lteration API 
+- [ ] Array Acessor API 
+- [ ] Exercício 5 
+- [ ] Exercício 6 
+- [ ] Exercício 7 
+- [ ] Map 
+- [ ] WeakMap 
+- [ ] Set  
+- [ ] WekSet 
+- [ ] lterables e lterators  
+- [ ] Exercício 8 
+- [ ] Classes 
+- [ ] Exercício 9 
+- [ ] Proxy e Reflect 
+- [ ] Modules 
+- [ ] Exercício 10 
+- [ ] Promises 
+- [ ] Exercício 11 
+- [ ] Generators 
+- [ ] Async Await 
+- [ ] Exercício 12 
